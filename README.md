@@ -1,4 +1,4 @@
-# E.K.F. Implement Template for Future Use
+# E.K.F. Implement Template for Future Reference
 
 This project involves designing and implementing a state estimator to accurately track the position and heading of a bicycle over time, using noisy sensor data and uncertain physical parameters. The estimator must be computationally efficient, work under real-world conditions such as GPS noise and parameter variability, and demonstrate strong performance on unseen evaluation data. Anyway, main purpose of this repo is to provide a E.K.F. example template of system modeling, filtering, estimating. etc.
 
